@@ -15,3 +15,5 @@ The commit message should be a brief description of the changes made.
 # push - pushes the committed changes from the local repository to the remote repository on GitHub.
 => command : git push origin <branch name>
 
+# init - It is used to create a new git repository in your local machine in the same dir.
+=> command : git init
